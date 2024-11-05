@@ -29,7 +29,15 @@ With the use of Microsoft Excel using the Pivot Tables in exploring the Data to 
 5. Calculation of Total Revenue by Regions.
 6. Top 3 Products by Revenue
 7. Top 3 Region by Sales.
-### Data Analysis
+### Data Analysis and Data Visualization
 The Power BI was used to show the Visualisations and Chart.
+
+
+<img width="609" alt="Bar Chart - Copy" src="https://github.com/user-attachments/assets/3fd168c8-3bb9-46bf-9961-17d07a26a347">
+
+
+<img width="899" alt="Pivot Tables" src="https://github.com/user-attachments/assets/fd6c3e7e-5811-4dc2-a2e0-e7d89281675c">
+
+
 
 
