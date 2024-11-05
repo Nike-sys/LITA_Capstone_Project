@@ -30,6 +30,6 @@ With the use of Microsoft Excel using the Pivot Tables in exploring the Data to 
 6. Top 3 Products by Revenue
 7. Top 3 Region by Sales.
 ### Data Analysis
-The Power BI ws used to show the Visualisations and Chart.
+The Power BI was used to show the Visualisations and Chart.
 
 
