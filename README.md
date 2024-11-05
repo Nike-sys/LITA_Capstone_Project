@@ -21,7 +21,7 @@ After getting the Data I performed the following actions on it for cleaning and 
 2. Created a Column to order the quatity sold into three categories of Low, Middle and High.
 
 ### Exploratory Data Analysis
-With the use of Microsoft Excel using the Pivot Tables in exploring the Data to show the following:
+With the use of Microsoft Excel using Pivot Tables in exploring the Data to show the following:
 1. Total Sales By Products
 2. Total Sales By Regions
 3. Total Sales BY Months
