@@ -39,5 +39,6 @@ The Power BI was used to show the Visualisations and Chart.
 <img width="899" alt="Pivot Tables" src="https://github.com/user-attachments/assets/fd6c3e7e-5811-4dc2-a2e0-e7d89281675c">
 
 
+<img width="903" alt="Capstone Project Visualisation" src="https://github.com/user-attachments/assets/4971622b-70c5-45a3-bec3-f63506a8fd6d">
 
 
